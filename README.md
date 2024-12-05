@@ -15,3 +15,24 @@ Mide la proporción del gasto total del gobierno que se destina a educación. Un
 
 Importancia del estudio:
 Comparar estos dos indicadores permite evaluar no solo la magnitud de la inversión educativa, sino también su peso relativo en la economía y en las prioridades fiscales de cada país. Este análisis proporciona una base para entender las estrategias de inversión educativa en contextos económicos diversos.
+
+Herramientas utilizadas:
+Python: Para crear un ETL e importar los datos a PostgreSQL
+PostgreSQL: Como base de datos para crear vistas
+Power BI: Para la visualización la comprensión de los resultados y permiten comparaciones dinámicas entre países.
+DAX: Utilizado en Power BI para cálculos personalizados
+
+
+El código utilizado en este proceso está disponible en GitHub:
+Python:
+[Consulta el repositorio aquí](https://github.com/Floki-Dreamer/Educaci-n/blob/main/Educacion.py).  
+PostgreSQL
+[Consulta el repositorio aquí](https://github.com/Floki-Dreamer/Educaci-n/blob/main/Educaci%C3%B3n.sql)
+
+### **Visualización del análisis**  
+
+La visualización de los resultados se realizó con Power BI. Puedes explorar el dashboard interactivo en el siguiente enlace:  
+[Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOGJmODdjODEtYTMxMS00NDliLWI3OTYtNjZiMjNkZTY4YzQxIiwidCI6IjY2NWYxNmFlLWVmN2ItNDUwNS04NjdkLTgyMzNkYjVhZWVhZiJ9).
+
+# Fuente y cita
+[Fuentes de datos: Banco Mundial (2024)Tanzi y Schuknecht (2000) – procesado por Our World In Data](https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators)
