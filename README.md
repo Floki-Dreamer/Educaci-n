@@ -1,10 +1,10 @@
-# **Educación
 
 # Análisis del Gasto Público en Educación en América Latina, China y Estados Unidos
-En este estudio, analizamos y comparamos el gasto público en educación como porcentaje del Producto Interno Bruto (PIB) y del presupuesto gubernamental total en varios países clave. La evaluación abarca a los principales países emergentes de América Latina: México, Colombia, Chile, Brasil y Argentina. Además, se incluyeron a China y Estados Unidos para proporcionar un marco comparativo global más amplio.
+
+En este estudio, analizamos y comparamos el gasto público en educación como porcentaje del Producto Interno Bruto (PIB) y del presupuesto gubernamental total en varios países. La evaluación abarca a los principales países emergentes de América Latina: México, Colombia, Chile, Brasil y Argentina. Además, se incluyeron a China y Estados Unidos para proporcionar un marco comparativo global más amplio.
 
 # Objetivo del análisis:
-El propósito es entender las diferencias en la inversión educativa entre economías en desarrollo y potencias mundiales, observando cómo varía la proporción del PIB destinada a la educación y el porcentaje del presupuesto gubernamental total asignado a este sector crítico.
+El propósito es entender las diferencias en la inversión educativa entre economías en desarrollo y potencias mundiales, observando cómo varía la proporción del PIB destinada a la educación y el porcentaje del presupuesto gubernamental total asignado a la educación del cada país.
 
 # Indicadores clave:
 Gasto público en educación como porcentaje del PIB:
