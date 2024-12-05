@@ -17,10 +17,10 @@ Importancia del estudio:
 Comparar estos dos indicadores permite evaluar no solo la magnitud de la inversión educativa, sino también su peso relativo en la economía y en las prioridades fiscales de cada país. Este análisis proporciona una base para entender las estrategias de inversión educativa en contextos económicos diversos.
 
 Herramientas utilizadas:
-Python: Para crear un ETL e importar los datos a PostgreSQL
-PostgreSQL: Como base de datos para crear vistas
-Power BI: Para la visualización la comprensión de los resultados y permiten comparaciones dinámicas entre países.
-DAX: Utilizado en Power BI para cálculos personalizados
+- Python: Para crear un ETL e importar los datos a PostgreSQL
+- PostgreSQL: Como base de datos para crear vistas
+- Power BI: Para la visualización la comprensión de los resultados y permiten comparaciones dinámicas entre países.
+- DAX: Utilizado en Power BI para cálculos personalizados
 
 
 El código utilizado en este proceso está disponible en GitHub:
