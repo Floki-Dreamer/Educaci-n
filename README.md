@@ -24,9 +24,9 @@ Herramientas utilizadas:
 
 
 El código utilizado en este proceso está disponible en GitHub:
-Python:
+- Python:
 [Consulta el repositorio aquí](https://github.com/Floki-Dreamer/Educaci-n/blob/main/Educacion.py).  
-PostgreSQL
+- PostgreSQL
 [Consulta el repositorio aquí](https://github.com/Floki-Dreamer/Educaci-n/blob/main/Educaci%C3%B3n.sql)
 
 ### **Visualización del análisis**  
